@@ -1,0 +1,4 @@
+# Skip cached terraform resources and local state
+*.tfstate
+.terraform*
+terraform.tfstate*
